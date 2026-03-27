@@ -444,7 +444,8 @@
     "year": "2026",
     "id": 1774541419689,
     "createdAt": "2026-03-26T16:10:19.689Z",
-    "updatedAt": "2026-03-26T16:10:19.689Z"
+    "updatedAt": "2026-03-27T00:15:11.068Z",
+    "secondEmailSent": true
   },
   {
     "Email": "adam.rachedi@gmail.com",
